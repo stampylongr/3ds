@@ -6,7 +6,7 @@ title: "安裝 boot9strap (透過 Seedminer)"
 
 ### 必讀事項
 
-To install boot9strap on your 11.9.0 device, we exploit an oversight in the security restrictions applied to "DSiWare" applications.
+我們將透過 DSiWare 遊戲應用程式中所存在的一項安全性漏洞自您的裝置中安裝 boot9strap。
 
 To accomplish this, we use a tool called Seedminer to calculate the DSiWare encryption key (`movable.sed`) for your device.
 
