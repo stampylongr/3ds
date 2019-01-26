@@ -48,7 +48,7 @@ title: "安裝 boot9strap (透過 DSiWare 植入遊戲－遊戲清單)"
 
 由於此列表的長度，您可能希望使用側邊欄跳至與您所在地區相關的部分。
 
-####第一節 - 美國
+#### Section I - USA
 
 | | 價格 | 8 位元 ID | 區域 | 二維碼(QR Code) |
 |:-:|:-:|:-:|:-:|:-:|
@@ -470,7 +470,7 @@ title: "安裝 boot9strap (透過 DSiWare 植入遊戲－遊戲清單)"
 | Thorium Wars™ | $9.99 | 4B545745 | USA | [![qrcode]({{ "/images/qrcodes/50010000003571.png" | absolute_url }})]({{ "/images/qrcodes/50010000003571.png" | absolute_url }})
 | Shantae: Risky's Revenge | $11.99 | 4B533345 | USA | [![qrcode]({{ "/images/qrcodes/50010000003644.png" | absolute_url }})]({{ "/images/qrcodes/50010000003644.png" | absolute_url }})
 
-####第二節 - 歐洲
+#### Section II - EUR
 
 | | 價格 | 8 位元 ID | 區域 | 二維碼(QR Code) |
 |:-:|:-:|:-:|:-:|:-:|
