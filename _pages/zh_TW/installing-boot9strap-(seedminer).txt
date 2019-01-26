@@ -6,7 +6,7 @@ title: "安裝 boot9strap (透過 Seedminer)"
 
 ### 必讀事項
 
-為了在您的系統版本為11.9.0的3DS安裝boot9starp，我們利用了應用于"Dsiware"應用程式中的安全疏忽。
+To install boot9strap on your 11.9.0 device, we exploit an oversight in the security restrictions applied to "DSiWare" applications.
 
 To accomplish this, we use a tool called Seedminer to calculate the DSiWare encryption key (`movable.sed`) for your device.
 
