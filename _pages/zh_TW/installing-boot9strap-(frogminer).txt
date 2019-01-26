@@ -25,11 +25,11 @@ title: "安裝 boot9strap (透過 Frogminer)"
 
 ### 必備項目
 
-*來自eShop的免費eShop遊戲“Steel Diver: Sub Wars”
+* The free eShop game "Steel Diver: Sub Wars" from the eShop
 * <i class="fa fa-magnet" aria-hidden="true" title="這是個種子連結。 使用磁力鏈接下載檔案"></i> - [frogcert.bin](magnet:?xt=urn:btih:d12278ea50bb3574f1fbd327f3d0e2292c70941f&dn=frogcert.bin&tr=https%3a%2f%2ftracker.fastdownload.xyz%3a443%2fannounce&tr=https%3a%2f%2fopentracker.xyz%3a443%2fannounce&tr=http%3a%2f%2fopen.trackerlist.xyz%3a80%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.demonii.si%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.port443.xyz%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.vanitycore.co%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fthetracker.org%3a80%2fannounce&tr=http%3a%2f%2ftorrent.nwps.ws%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.iamhansen.xyz%3a2000%2fannounce&tr=udp%3a%2f%2fbt.xxx-tracker.com%3a2710%2fannounce&tr=http%3a%2f%2f0d.kebhana.mx%3a443%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker4.itzmx.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.justseed.it%3a1337%2fannounce&tr=http%3a%2f%2ftherightsize.net%3a1337%2fannounce&tr=udp%3a%2f%2fretracker.hotplug.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2800%2fannounce&tr=https%3a%2f%2f2.track.ga%3a443%2fannounce&tr=udp%3a%2f%2fbigfoot1942.sektori.org%3a6969%2fannounce)
 * 最新版的 [Frogtool](https://github.com/zoogie/Frogtool/releases/latest)
 * 最新版的 [Homebrew Launcher](https://github.com/fincs/new-hbmenu/releases/latest)
-*[Steelhax]的最新版本(https://github.com/VegaRoXas/vegaroxas.github.io/raw/master/files/steelhax-installer.rar)
+* The latest release of [Steelhax](https://github.com/VegaRoXas/vegaroxas.github.io/raw/master/files/steelhax-installer.rar)
 * 最新版的 [b9sTool](https://github.com/zoogie/b9sTool/releases/latest)
 * 最新版的 [Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest) *(`.7z` 檔案)*
 * [otherapp payload 檔案](https://smealum.github.io/3ds/#otherapp) *(選擇對應您主機的區域及型號的檔案)*
@@ -60,8 +60,8 @@ title: "安裝 boot9strap (透過 Frogminer)"
   +等待設備生成SD卡數據
   +關閉設備電源，然後將SD卡重新插入計算機
   +進入到SD卡上的`Nintendo 3DS`文件夾
-  +複製您看到的文件夾的32個字符長的名稱
-  +刪除`Nintendo 3DS`文件夾
+  + 複製您看到的32個字符長的文件夾名稱
+  + Delete the `Nintendo 3DS` folder
   +將`BACKUP Nintendo 3DS`文件夾重命名為`Nintendo 3DS`
 1. 將32個字符長的文件夾名稱粘貼到稍後可以引用的文檔中
   +此文件夾名稱也稱為“ID0”
@@ -84,17 +84,17 @@ title: "安裝 boot9strap (透過 Frogminer)"
 1. 選擇"Go"
 1. 出現提示時，使用設備上的“註冊朋友”按鈕添加機器人 3DS控制台的朋友代碼
 1. 等待網站更新
-  +如果沒有，請等待幾分鐘後再刷新頁面一次
+  + If it does not, wait a few minutes before refreshing the page once
 1. 選擇"Continue"
 1. 等待該過程完成
   +這可能需要一段時間（在某些情況下長達一個小時）
   +如果您在一小時後仍在等待，請加入[Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp)並詢問(英文)有人在那里為您提供幫助
 1. 該過程完成後，從站點下載您的`movable.sed`文件
 
-####第三節 - Steelminer
+#### Section III - Steelminer
 
 1. 啟動“Steel Diver：Sub Wars”並選擇一個Mii來初始化您的保存文件
-  +出現提示時拒絕遊戲更新
+  + Decline the game update when prompted
   +如果您已經更新了遊戲，請使用“系統設置”的“數據管理”菜單刪除更新
 1. 退出"Steel Diver: Sub Wars"
 1. 關閉您的主機
