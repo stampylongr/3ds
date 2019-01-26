@@ -6,9 +6,9 @@ title: "安裝 boot9strap (透過 DSiWare 植入遊戲－遊戲清單)"
 
 ### 必讀事項
 
-這是eShop上當前可用的所有DSiWare Injection兼容遊戲的自動生成列表。
+This is an automatically generated list of all DSiWare Injection compatible games currently available on the eShop.
 
-此外，以下eShop遊戲(此後已從eShop中提取)也兼容：
+Additionally, the following eShop games (which have since been pulled from the eShop) are also compatible:
   + Fieldrunners (4B4644XX)
   + Legends of Exidia (4B4C45XX)
   + Guitar Rock Tour (4B4752XX)
@@ -16,7 +16,7 @@ title: "安裝 boot9strap (透過 DSiWare 植入遊戲－遊戲清單)"
 
 本清單是依遊戲區碼來分段的，順序為美、歐、日。 每個部分是按昇冪價格排序的。
 
-可以使用eShop菜單的“設置/其他”部分中的“掃描QR碼”選項掃描QR碼。
+QR Codes can be scanned by using the "Scan QR Code" option in the "Settings / Other" section of the eShop menu.
 
 會有大小要求限制是因為植入後的 DSiWare 遊戲以及修改後的存檔大小得要與原本的相同才能正常的經過軟體和資料轉移到另一台主機中；也就是說犧牲用的 DSiWare 遊戲必須要夠大才能裝得下駭過的遊戲。
 
@@ -46,7 +46,7 @@ title: "安裝 boot9strap (透過 DSiWare 植入遊戲－遊戲清單)"
 
 ### 列表
 
-由於此列表的長度，您可能希望使用側邊欄跳至與您所在地區相關的部分。
+Due to the length of this list, you may wish to use the sidebar to skip to the section relevant to your region.
 
 #### Section I - USA
 
